@@ -1,0 +1,17 @@
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\bin\Debug\net8.0\Ecommerce_Backend.Infrastructure.deps.json
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\bin\Debug\net8.0\Ecommerce_Backend.Infrastructure.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\bin\Debug\net8.0\Ecommerce_Backend.Infrastructure.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\bin\Debug\net8.0\Ecommerce_Backend.Application.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\bin\Debug\net8.0\Ecommerce_Backend.Domain.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\bin\Debug\net8.0\Ecommerce_Backend.Application.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\bin\Debug\net8.0\Ecommerce_Backend.Domain.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\Ecommerce_Backend.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\Ecommerce_Backend.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\Ecommerce_Backend.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\Ecommerce_Backend.Infrastructure.AssemblyInfo.cs
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\Ecommerce_Backend.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\Ecommerc.96D19E1F.Up2Date
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\Ecommerce_Backend.Infrastructure.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\refint\Ecommerce_Backend.Infrastructure.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\Ecommerce_Backend.Infrastructure.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Infrastructure\Ecommerce_Backend.Infrastructure\obj\Debug\net8.0\ref\Ecommerce_Backend.Infrastructure.dll

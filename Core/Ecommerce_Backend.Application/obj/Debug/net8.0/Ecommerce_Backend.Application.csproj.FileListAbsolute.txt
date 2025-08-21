@@ -1,0 +1,15 @@
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\bin\Debug\net8.0\Ecommerce_Backend.Application.deps.json
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\bin\Debug\net8.0\Ecommerce_Backend.Application.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\bin\Debug\net8.0\Ecommerce_Backend.Application.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\bin\Debug\net8.0\Ecommerce_Backend.Domain.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\bin\Debug\net8.0\Ecommerce_Backend.Domain.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\Ecommerce_Backend.Application.csproj.AssemblyReference.cache
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\Ecommerce_Backend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\Ecommerce_Backend.Application.AssemblyInfoInputs.cache
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\Ecommerce_Backend.Application.AssemblyInfo.cs
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\Ecommerce_Backend.Application.csproj.CoreCompileInputs.cache
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\Ecommerc.3625AC2E.Up2Date
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\Ecommerce_Backend.Application.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\refint\Ecommerce_Backend.Application.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\Ecommerce_Backend.Application.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Application\obj\Debug\net8.0\ref\Ecommerce_Backend.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\bin\Debug\net8.0\Ecommerce_Backend.Domain.deps.json
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\bin\Debug\net8.0\Ecommerce_Backend.Domain.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\bin\Debug\net8.0\Ecommerce_Backend.Domain.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\Ecommerce_Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\Ecommerce_Backend.Domain.AssemblyInfoInputs.cache
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\Ecommerce_Backend.Domain.AssemblyInfo.cs
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\Ecommerce_Backend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\Ecommerce_Backend.Domain.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\refint\Ecommerce_Backend.Domain.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\Ecommerce_Backend.Domain.pdb
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\ref\Ecommerce_Backend.Domain.dll
+C:\Users\elesg\OneDrive\Desktop\E-commerce\Ecommerce_Backend\Core\Ecommerce_Backend.Domain\obj\Debug\net8.0\Ecommerce_Backend.Domain.csproj.AssemblyReference.cache
