@@ -20,6 +20,8 @@ A full-stack backend application built with ASP.NET Core 8 (.NET 8). Supports JW
 
 📈 Logging using Serilog
 
+---
+
 🛠️ Technologies Used
 
 ASP.NET Core 8 (.NET 8)
@@ -38,12 +40,16 @@ FluentValidation
 
 Serilog
 
+---
+
 🚀 Getting Started
 Prerequisites
 
 .NET 8 SDK
 
 SQL Server with Management Studio
+
+---
 
 ### Installation 1. Clone the repository:
 bash
