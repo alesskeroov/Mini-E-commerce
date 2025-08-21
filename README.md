@@ -1,26 +1,26 @@
 🛒 Mini E-Commerce Backend
 
-A small-scale e-commerce backend application built with .NET Core 8, featuring Onion Architecture, CQRS pattern, and JWT-based authentication. Supports role-based authorization, product management, pagination, QR code functionality, email notifications, and logging with Serilog.
+A small-scale e-commerce backend built with .NET 8, demonstrating clean architecture, JWT authentication, role-based authorization, CQRS pattern, and modern backend practices. Includes product management, pagination, QR code functionality, email notifications, and logging with Serilog.
 
-🔧 Features
+🔹 Features
 
-✅ Authentication & Authorization using JWT and role-based access (Admin, User)
+Authentication & Authorization: JWT-based, role-based (Admin/User)
 
-🛍️ Product Management with CRUD operations via Repository Pattern
+Product Management: CRUD operations with Repository Pattern
 
-📑 Input Validation using Fluent Validation
+Validation: FluentValidation for input data
 
-📊 Pagination for product listings
+Pagination: For product listing endpoints
 
-📧 Email Service for notifications (registration, orders)
+QR Code: Generation and reading support
 
-📈 Logging with Serilog
+Email Service: Notifications for registration, orders, etc.
 
-📱 QR Code generation and reading
+Logging: Serilog integration for structured logging
 
-🛠️ Technologies Used
+🔹 Technologies
 
-Backend Framework: ASP.NET Core 8 (.NET 8), C#
+Backend: ASP.NET Core 8, C#
 
 Architecture: Onion Architecture
 
@@ -30,38 +30,24 @@ Database: SQL Server
 
 ORM: Entity Framework Core
 
-Validation: Fluent Validation
+Validation: FluentValidation
 
 Logging: Serilog
 
-Other Tools: QR Code, Mail Service
+🔹 Future Improvements
 
-🔑 Authentication & Authorization
+Frontend integration (Angular/React)
 
-JWT-based authentication
+Unit and integration testing
 
-Role-based authorization (Admin/User)
+Docker support
 
-Token refresh mechanism
+CI/CD pipeline setup
 
-💾 Database
+🤝 Contributing
 
-SQL Server used for persistent storage
+Contributions are welcome! Please open an issue or submit a pull request.
 
-Entity Framework Core for data access
+📄 License
 
-🚀 Getting Started
-Prerequisites
-
-.NET 8 SDK
-
-SQL Server with Management Studio
-
-### Installation 1. Clone the repository:
-bash
-   git clone https://github.com/alesskeroov/Mini-E-commerce.git
-If you have any questions, feel free to reach out.
-
----
-
-**© 2025, Rəvan Ələsgərov**
+MIT License © 2025, Rəvan Ələsgərov
