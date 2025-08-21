@@ -2,6 +2,8 @@
 
 A full-stack backend application built with ASP.NET Core 8 (.NET 8). Supports JWT authentication, role-based authorization, product management, pagination, QR code functionality, email notifications, and logging with Serilog,Onion architecture,CQRS pattern.
 
+---
+
 🔧 Features
 
 ✅ JWT-based authentication and role-based authorization (Admin/User)
