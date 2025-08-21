@@ -1,53 +1,53 @@
-🛒 Mini E-Commerce Backend
+💬 Mini E-Commerce Backend
 
-A small-scale e-commerce backend built with .NET 8, demonstrating clean architecture, JWT authentication, role-based authorization, CQRS pattern, and modern backend practices. Includes product management, pagination, QR code functionality, email notifications, and logging with Serilog.
+A full-stack backend application built with ASP.NET Core 8 (.NET 8). Supports JWT authentication, role-based authorization, product management, pagination, QR code functionality, email notifications, and logging with Serilog,Onion architecture,CQRS pattern.
 
-🔹 Features
+🔧 Features
 
-Authentication & Authorization: JWT-based, role-based (Admin/User)
+✅ JWT-based authentication and role-based authorization (Admin/User)
 
-Product Management: CRUD operations with Repository Pattern
+🛍️ Product CRUD operations using Repository Pattern
 
-Validation: FluentValidation for input data
+📑 Input validation with FluentValidation
 
-Pagination: For product listing endpoints
+📊 Pagination support for product listings
 
-QR Code: Generation and reading support
+📱 QR Code generation and reading
 
-Email Service: Notifications for registration, orders, etc.
+📧 Email notifications for registration and orders
 
-Logging: Serilog integration for structured logging
+📈 Logging using Serilog
 
-🔹 Technologies
+🛠️ Technologies Used
 
-Backend: ASP.NET Core 8, C#
+ASP.NET Core 8 (.NET 8)
 
-Architecture: Onion Architecture
+C#
 
-Patterns: CQRS, Repository Pattern
+Onion Architecture
 
-Database: SQL Server
+CQRS Pattern
 
-ORM: Entity Framework Core
+SQL Server
 
-Validation: FluentValidation
+Entity Framework Core
 
-Logging: Serilog
+FluentValidation
 
-🔹 Future Improvements
+Serilog
 
-Frontend integration (Angular/React)
+🚀 Getting Started
+Prerequisites
 
-Unit and integration testing
+.NET 8 SDK
 
-Docker support
+SQL Server with Management Studio
 
-CI/CD pipeline setup
+### Installation 1. Clone the repository:
+bash
+   git clone https://github.com/alesskeroov/Mini-E-commerce.git
+If you have any questions, feel free to reach out.
 
-🤝 Contributing
+---
 
-Contributions are welcome! Please open an issue or submit a pull request.
-
-📄 License
-
-MIT License © 2025, Rəvan Ələsgərov
+**© 2025, Rəvan Ələsgərov**
